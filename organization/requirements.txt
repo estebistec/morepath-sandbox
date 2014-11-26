@@ -1,0 +1,8 @@
+WebOb==1.4
+Werkzeug==0.9.6
+organization==0.1.0
+morepath==0.9
+reg==0.9.2
+repoze.lru==0.6
+venusifork==2.0a2
+wheel==0.23.0
